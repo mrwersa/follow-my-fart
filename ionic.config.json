@@ -1,0 +1,8 @@
+{
+  "name": "followMyFart",
+  "app_id": "94ad86ec",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
